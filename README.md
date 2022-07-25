@@ -3,4 +3,4 @@
 
 Flask, Heroku, Postgres
 
-Places input into a database(accessible both locally and through postgres), and emails data it to admin.
+Places input into a database(accessible locally, through postgres, and Heroku databases), and emails data it to admin through backend.
